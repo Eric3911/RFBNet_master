@@ -22,10 +22,10 @@ To make things easy, we provide simple VOC and COCO dataset loader that inherits
 
 VOC Dataset
 Download VOC2007 trainval & test
-# specify a directory for dataset to be downloaded into, else default is ~/data/
+  specify a directory for dataset to be downloaded into, else default is ~/data/
 sh data/scripts/VOC2007.sh # <directory>
 Download VOC2012 trainval
-# specify a directory for dataset to be downloaded into, else default is ~/data/
+  specify a directory for dataset to be downloaded into, else default is ~/data/
 sh data/scripts/VOC2012.sh # <directory>
 COCO Dataset
 Install the MS COCO dataset at /path/to/coco from official website, default is ~/data/COCO. Following the instructions to prepare minival2014 and valminusminival2014 annotations. All label files (.json) should be under the COCO/annotations/ folder. It should have this basic structure
