@@ -1,6 +1,6 @@
 # RFBNet_master
 
-使用RFBNet模型训练自己的voc数据，教程请阅读pdf文件，代码请下载压缩包！
+使用RFBNet模型训练自己的voc数据，教程请阅读pdf文件，代码请下载压缩包！原作者模型地址：https://github.com/ruinmessi/RFBNet
 
 1、环境搭建
   Installation
