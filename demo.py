@@ -15,6 +15,7 @@ parser = argparse.ArgumentParser(description='Receptive Field Block Net')
 
 parser.add_argument('-v', '--version', default='RFB_vgg',
                     help='RFB_vgg ,RFB_E_vgg or RFB_mobile version.')
+#*********************在这里写上你要训练的模型是512/300*****************
 parser.add_argument('-s', '--size', default='300',
                     help='300 or 512 input size.')
 parser.add_argument('-d', '--dataset', default='VOC',
