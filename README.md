@@ -1,8 +1,8 @@
 # RFBNet_master
-
+（使用RFBNet模型训练自己的voc数据，教程请阅读pdf文件及代码请下载压缩包！原作者模型地址）
 Use RFBNet model to train your own VOC data. Read the PDF file for the tutorial. Download the compressed package for the code. Original author model address: 
 
-https://github.com/ruinmessi/RFBNet（使用RFBNet模型训练自己的voc数据，教程请阅读pdf文件及代码请下载压缩包！原作者模型地址）
+https://github.com/ruinmessi/RFBNet
 
 
 1、Installation，Environmental Construction（环境搭建）
